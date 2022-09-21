@@ -1,7 +1,12 @@
 ### Hi there 👋
+- 🔭 On Site Engineer at Integrasi Logistik Cipta Solusi
+- 🌱 I’m currently learning Laravel
+- 📫 How to reach me: rridho335@gmail.com
+
 
 <!--
 **mrosyidridho06/mrosyidridho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrosyidridho06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 Here are some ideas to get you started:
 
