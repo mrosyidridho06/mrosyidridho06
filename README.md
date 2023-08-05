@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 On Site Engineer at Integrasi Logistik Cipta Solusi
-- 🌱 I’m currently learning Laravel
+- 🔭 IT Staff at PT. Prospect Motor
+- 🌱 I’m currently learning Laravel, Cisco, Sangfor, Mikrotik
 - 📫 How to reach me: rridho335@gmail.com
 
 
