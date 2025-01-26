@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 IT Staff at PT. Prospect Motor
-- 🌱 I’m currently learning Laravel, Cisco, Sangfor, Mikrotik
+- 🔭 IT Staff at PT. Samudra Maju Perkasa
+- 🌱 I’m currently learning Laravel, Cisco, Sangfor, Mikrotik, Ubiquity
 - 📫 How to reach me: rridho335@gmail.com
 
 
