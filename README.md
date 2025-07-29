@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 IT Staff at PT. Samudra Maju Perkasa
+- 🔭 IT Staff at PT. KTC Coal Mining & Energy
 - 🌱 I’m currently learning Laravel, Cisco, Sangfor, Mikrotik, Ubiquity
 - 📫 How to reach me: rridho335@gmail.com
 
